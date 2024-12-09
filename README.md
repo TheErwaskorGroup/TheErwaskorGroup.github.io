@@ -1,4 +1,3 @@
-# TheErwaskorGroup.github.io
 # Welcome to the Erwaskor Group
 
 This is the official account of the **Erwaskor Group**, where we share project updates, details, and more.  
